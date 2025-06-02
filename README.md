@@ -25,6 +25,6 @@ A sleek, modern Flutter app that lets you **scan** and **generate** QR codes wit
 
 ```bash
 git clone https://github.com/Huzaifa150921/QR-Code-Scanner-and-Generator.git
-cd QR-Code-Scanner-and-Generator/qrcode
+cd QR-Code-Scanner-and-Generator/qr_code
 flutter pub get
 flutter run
